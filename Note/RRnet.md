@@ -1,0 +1,1 @@
+https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Chen_RRNet_A_Hybrid_Detector_for_Object_Detection_in_Drone-Captured_Images_ICCVW_2019_paper.pdf
